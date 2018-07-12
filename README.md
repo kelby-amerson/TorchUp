@@ -1,4 +1,5 @@
 # TorchUp
-Simple flashlight app
+App where you input a sentence, and uses the flashlight to turn the sentence into morse code.
 
-TODO: sentences into morse code flashes. Also, the resources don't work.
+Not complete. 
+TODO: Make a nicer interface. Make test units
