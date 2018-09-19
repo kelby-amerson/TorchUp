@@ -5,4 +5,5 @@ Android version 4.0 and up.
 
 Not complete. 
 TODO: Make a nicer interface. Make test units
+
 Also TODO: input camera flashes, translate that morse code into a sentence
